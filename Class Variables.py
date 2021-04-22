@@ -1,6 +1,6 @@
 # class variable
 
-class Employee():
+class Employee:
     #creating class variable
     num_of_emps = 0
     raise_amount = 1.04

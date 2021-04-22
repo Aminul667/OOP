@@ -1,6 +1,6 @@
 # classmethods and staticmethods
 
-class Employee():
+class Employee:
     num_of_emps = 0     #class variable
     raise_amt = 1.04    #class variable
 
